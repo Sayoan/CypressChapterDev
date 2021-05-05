@@ -1,0 +1,18 @@
+{
+    "id": 100,
+    "category": {
+      "id": 0,
+      "name": "Cachorro"
+    },
+    "name": "Bidu",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
